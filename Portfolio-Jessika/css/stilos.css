@@ -1,0 +1,9 @@
+.icono {
+    font-size: 48px;
+}
+
+.icono:hover {
+    transform: scale(1.5);
+    transition-duration: 400ms;
+    opacity: 0.9;
+}
