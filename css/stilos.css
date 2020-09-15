@@ -19,3 +19,13 @@
     opacity: 0.6;
     color: #bd5d38;
 }
+
+body {
+    background-color: white;
+    color: black;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
