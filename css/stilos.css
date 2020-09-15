@@ -2,6 +2,10 @@
     font-size: 48px;
 }
 
+.icono2 {
+    font-size: 32px;
+}
+
 .icono:hover {
     transform: scale(1.5);
     transition-duration: 400ms;
@@ -28,4 +32,6 @@ body {
 .dark-mode {
     background-color: black;
     color: white;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
 }
