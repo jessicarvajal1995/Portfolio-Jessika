@@ -6,4 +6,16 @@
     transform: scale(1.5);
     transition-duration: 400ms;
     opacity: 0.9;
+    color: #bd5d38;
+}
+
+.profile {
+    height: auto;
+}
+
+.profile:hover {
+    transform: scale(1.2);
+    transition-duration: 400ms;
+    opacity: 0.6;
+    color: #bd5d38;
 }
